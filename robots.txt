@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--dog-qr6el54e7xha.com/sitemap.xml
